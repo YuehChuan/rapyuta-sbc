@@ -1,0 +1,8 @@
+raspicam_node
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/lib/libraspicamcontrol.a /home/ubuntu/rapyuta/rapyuta_ws/devel/lib/libraspicamcontrol.a
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/lib/libraspicli.a /home/ubuntu/rapyuta/rapyuta_ws/devel/lib/libraspicli.a
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/lib/raspicam_node/raspicam_raw_node /home/ubuntu/rapyuta/rapyuta_ws/devel/lib/raspicam_node/raspicam_raw_node
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/lib/raspicam_node/raspicam_node /home/ubuntu/rapyuta/rapyuta_ws/devel/lib/raspicam_node/raspicam_node
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/lib/pkgconfig/raspicam_node.pc /home/ubuntu/rapyuta/rapyuta_ws/devel/lib/pkgconfig/raspicam_node.pc
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/share/raspicam_node/cmake/raspicam_nodeConfig-version.cmake /home/ubuntu/rapyuta/rapyuta_ws/devel/share/raspicam_node/cmake/raspicam_nodeConfig-version.cmake
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/raspicam_node/share/raspicam_node/cmake/raspicam_nodeConfig.cmake /home/ubuntu/rapyuta/rapyuta_ws/devel/share/raspicam_node/cmake/raspicam_nodeConfig.cmake

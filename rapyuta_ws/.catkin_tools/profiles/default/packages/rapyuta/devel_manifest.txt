@@ -1,0 +1,4 @@
+rapyuta
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/rapyuta/lib/pkgconfig/rapyuta.pc /home/ubuntu/rapyuta/rapyuta_ws/devel/lib/pkgconfig/rapyuta.pc
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/rapyuta/share/rapyuta/cmake/rapyutaConfig.cmake /home/ubuntu/rapyuta/rapyuta_ws/devel/share/rapyuta/cmake/rapyutaConfig.cmake
+/home/ubuntu/rapyuta/rapyuta_ws/devel/.private/rapyuta/share/rapyuta/cmake/rapyutaConfig-version.cmake /home/ubuntu/rapyuta/rapyuta_ws/devel/share/rapyuta/cmake/rapyutaConfig-version.cmake
